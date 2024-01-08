@@ -1,0 +1,58 @@
+body{
+     background-color:gray;
+}
+.signin{
+    
+    width: 380px;
+    height: 510px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+#in{
+   text-align: center;
+    padding:10px;
+    font-weight: bold;
+}
+.formdiv>form{
+margin-left:30px;
+}
+form label{
+    display: flex;
+    margin-bottom: 15px;
+    font-size:large;
+}
+form input{
+    width: 80%;
+    padding: 8px;
+    border:1px solid gray;
+    border-radius: 5px;
+    border:inset;
+    outline: none;
+    margin-bottom:10px;
+}
+.submit{
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100px;
+    height: 37px;
+    border-radius: 10px;
+    border:inset;
+    margin-left: 100px;
+    background-color: lightseagreen;
+}
+.submit:hover{
+    background-color: gray;
+    cursor: pointer;
+    margin-top: 25px;
+    width: 100px;
+    height: 37px;
+    border-radius: 10px;
+    border:inset;
+    margin-right: 90px;
+}
+#signup{
+  text-align: center;
+  font-size:14px;
+}

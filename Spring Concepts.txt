@@ -1,0 +1,70 @@
+1) Java Standard Edition (Java SE)
+
+->Use for develop stand alone applications. Ex: Calculator
+
+
+2) Java Enterprise Edition (J2EE)
+
+-> Use to develop web applications that run of server. Ex: Facebook 
+
+
+3) Java Micro Edition(J2ME)
+
+-> Use to build applications that run across all basic & smartphones. Ex: Mobile Caller
+
+
+** JEE
+
+ 
+Adv :
+
+  -it's core java with powerful set of libraries and APIs. will develop by these things.
+
+Dis Adv:
+  
+  -Enterprise Java Bean (EJB) for create beans is highly complex,configuration and poor performance.
+
+
+** JEE without EJB / john --> Spring 1.0
+  
+Adv :
+
+ - Create beans with POJOs (Plain Old Java Objects).
+ 
+ - Inversion of Control(IOC)
+
+ - Dependancey Injection (DI)
+ 
+ - Spring MVC
+ 
+ - Spring Data JPA
+
+ - Hibernate
+
+ - REST
+
+ - AOP
+
+ - Security ....etc.
+
+
+     # IOC 
+       
+       -> Approach for management of objects & maintain Configurable application
+
+       -> Follow DI project 
+
+     # DI
+    
+       -> inject needed obj to another objs (dependency injection)
+       
+       -> Follow DI project
+
+     # Spring MVC (Model,View,Controller)
+
+      -> It is an arcture for develop web application
+     
+      -> Http Req -> DispatcherServlet(Front Controller) -> Controller ( has mapping rounters ) -> Get Model ( Data,Entity,Business Logic ) -> View ( UI )
+
+
+

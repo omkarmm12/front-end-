@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> My Web </title>
+
+<body>
+<h3> forms </h3>
+<form>
+<label > Gender:</label>
+<input type="radio" value="male"/>Male
+<input type="radio" value="male"/>Female
+</from>
+</body>
+</html>
